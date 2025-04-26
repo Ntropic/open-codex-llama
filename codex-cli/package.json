@@ -1,9 +1,9 @@
 {
-  "name": "open-codex",
+  "name": "open-codex-llama",
   "version": "0.1.30",
   "license": "Apache-2.0",
   "bin": {
-    "open-codex": "dist/cli.js"
+    "open-codex-llama": "dist/cli.js"
   },
   "type": "module",
   "engines": {

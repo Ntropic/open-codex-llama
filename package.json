@@ -7,5 +7,25 @@
   },
   "devDependencies": {
     "prettier": "^3.5.3"
-  }
+  },
+  "name": "open-codex-llama",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "open-codex-llama": "./bin/cli.js"
+  },
+  "directories": {
+    "doc": "docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ntropic/open-codex-llama.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ntropic/open-codex-llama/issues"
+  },
+  "homepage": "https://github.com/Ntropic/open-codex-llama#readme"
 }
